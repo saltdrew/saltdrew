@@ -4,7 +4,7 @@ Graduate from the University of Bath with BSc Computer Science
 
 Experienced in Python, C, Java, C#(.NET) and C++. 
 
-Dissertation: https://github.com/saltdrew/saltdrew/blob/main/Dissertation.pdf
+Dissertation - Natural Language Processing: https://github.com/saltdrew/saltdrew/blob/main/Dissertation.pdf
 
 andrewjackbell@gmail.com
 
