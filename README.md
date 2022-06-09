@@ -1,6 +1,6 @@
 **Andrew Bell**
 
-Graduate from the University of Bath with BSc Computer Science
+Graduate from the University of Bath with BSc in Computer Science
 
 Experienced in Python, C, Java, C#(.NET) and C++. 
 
